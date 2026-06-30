@@ -1,0 +1,7 @@
+gymnasium[box2d]
+stable-baselines3
+matplotlib
+numpy
+pandas
+moviepy
+shimmy
